@@ -4,13 +4,13 @@
 
 Ici, tu peux découvrir mes projets tels que :
 
+- [Mon site](https://beskarfox.com)
+
 - Mes projets Minecraft :
   - [Mon ressouce pack](https://github.com/NathKaden/KadExtras/releases)
   - [Mon Mod Minecraft](https://docs.google.com/document/d/11jHUtU8JL0FPB0FLZ-KX1cy0t7EHaSThSixlCdjYdjg/edit?usp=sharing)
 
 - [Mon Application](https://github.com/NathKaden/AppsList)
-
-- [Et mon site !](https://beskarfox.com)
 
 <!--
 **NathKaden/NathKaden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
